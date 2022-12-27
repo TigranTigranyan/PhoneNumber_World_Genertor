@@ -7,7 +7,8 @@ public class Main {
 
 
         NumGenerator numGenerator=new NumGenerator();
-        numGenerator.phoneNum("8268977");
+        numGenerator.phoneNum("1234567");
+        PhoneNumberToLetters.generateWords("1234567","Arm- ");
 
         }
 
